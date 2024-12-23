@@ -2,9 +2,15 @@
 
 <img src="./Assets/swiftui-badge.png" width="88px" />
 <img src="./Assets/combine-badge.png" width="88px" />
-========================================================
+
+
+
 Source: https://www.hackingwithswift.com/100/swiftui
-========================================================
+
+
+
+
+
 _Projects, playgrounds, and other material made while following along with [Paul Hudson’s 100 Days of SwiftUI course](https://www.hackingwithswift.com/100/swiftui) -- and adapting it to my own experiments around Combine and SwiftUI architecture._
 
 If you're just getting started with SwiftUI, I'd recommend the [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) repo as a reference of all the different learning resources out there. Hopefully, though, this repo can offer some helpful examples, too.
